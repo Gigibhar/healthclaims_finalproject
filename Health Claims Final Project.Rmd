@@ -1,6 +1,6 @@
 ---
 title: "Health Data Final Project"
-author: "R2"
+author: "Girisha Bharadwaj, Mayuri Albal, Sandra Yu, Goedele Mangelaars"
 date: "2023-02-16"
 output: html_document
 ---
